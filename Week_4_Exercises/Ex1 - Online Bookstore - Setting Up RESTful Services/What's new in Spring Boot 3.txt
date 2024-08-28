@@ -1,1 +1,3 @@
-
+Native support with GraalVM for creating native executables.
+Enhanced support for reactive programming.
+Improvements in performance and startup time.
